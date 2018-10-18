@@ -4,3 +4,6 @@ Updated an exclamation mark in about for test deploy
 Reverted exclamation mark change in about page
 
 -----------------------------------------------
+Added meeting minutes from 2018-10-17
+
+-----------------------------------------------
