@@ -7,3 +7,6 @@ Reverted exclamation mark change in about page
 Added meeting minutes from 2018-10-17
 
 -----------------------------------------------
+Added recent meeting minutes
+
+-----------------------------------------------
